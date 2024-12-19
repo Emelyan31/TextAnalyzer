@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.analyzer_text.AdditionalDictUtilsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-12-18T14:13:44" hostname="DESKTOP-3MPF876" time="0.216">
+  <properties/>
+  <testcase name="testCheckDictHandlesUnknownWords()" classname="com.example.analyzer_text.AdditionalDictUtilsTest" time="0.209"/>
+  <testcase name="testGetThemeWithEqualCounts()" classname="com.example.analyzer_text.AdditionalDictUtilsTest" time="0.004"/>
+  <testcase name="testClearDictsResetsAllCounts()" classname="com.example.analyzer_text.AdditionalDictUtilsTest" time="0.002"/>
+  <system-out><![CDATA[[DEBUG] 2024-12-18 17:13:44.510 [Test worker] Dict - Creating dictionary Медицинский with predefined data
+[DEBUG] 2024-12-18 17:13:44.513 [Test worker] Dict - Creating dictionary Программирование with predefined data
+[DEBUG] 2024-12-18 17:13:44.525 [Test worker] Dict - Creating dictionary Медицинский with predefined data
+[DEBUG] 2024-12-18 17:13:44.525 [Test worker] Dict - Creating dictionary Программирование with predefined data
+[DEBUG] 2024-12-18 17:13:44.527 [Test worker] DictUtils - пациент found in Медицинский dictionary, current value = 1
+[DEBUG] 2024-12-18 17:13:44.527 [Test worker] DictUtils - код found in Программирование dictionary, current value = 1
+[DEBUG] 2024-12-18 17:13:44.529 [Test worker] Dict - Creating dictionary Медицинский with predefined data
+[DEBUG] 2024-12-18 17:13:44.529 [Test worker] Dict - Creating dictionary Программирование with predefined data
+[DEBUG] 2024-12-18 17:13:44.529 [Test worker] DictUtils - пациент found in Медицинский dictionary, current value = 1
+[DEBUG] 2024-12-18 17:13:44.530 [Test worker] DictUtils - код found in Программирование dictionary, current value = 1
+[DEBUG] 2024-12-18 17:13:44.530 [Test worker] DictUtils - код found in Программирование dictionary, current value = 2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

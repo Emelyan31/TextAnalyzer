@@ -1,0 +1,11 @@
+v[DEBUG] 2024-12-18 17:13:44.510 [Test worker] Dict - Creating dictionary Медицинский with predefined data
+�[DEBUG] 2024-12-18 17:13:44.513 [Test worker] Dict - Creating dictionary Программирование with predefined data
+v[DEBUG] 2024-12-18 17:13:44.525 [Test worker] Dict - Creating dictionary Медицинский with predefined data
+�[DEBUG] 2024-12-18 17:13:44.525 [Test worker] Dict - Creating dictionary Программирование with predefined data
+�[DEBUG] 2024-12-18 17:13:44.527 [Test worker] DictUtils - пациент found in Медицинский dictionary, current value = 1
+�[DEBUG] 2024-12-18 17:13:44.527 [Test worker] DictUtils - код found in Программирование dictionary, current value = 1
+v[DEBUG] 2024-12-18 17:13:44.529 [Test worker] Dict - Creating dictionary Медицинский with predefined data
+�[DEBUG] 2024-12-18 17:13:44.529 [Test worker] Dict - Creating dictionary Программирование with predefined data
+�[DEBUG] 2024-12-18 17:13:44.529 [Test worker] DictUtils - пациент found in Медицинский dictionary, current value = 1
+�[DEBUG] 2024-12-18 17:13:44.530 [Test worker] DictUtils - код found in Программирование dictionary, current value = 1
+�[DEBUG] 2024-12-18 17:13:44.530 [Test worker] DictUtils - код found in Программирование dictionary, current value = 2
